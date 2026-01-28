@@ -1,0 +1,41 @@
+{
+  "users": {
+    "1128350068": {
+      "id": 1128350068,
+      "firstName": "dllaff",
+      "lastName": "",
+      "username": null,
+      "isAdmin": true,
+      "isBanned": false,
+      "registeredAt": "2026-01-23T11:29:32.214Z",
+      "lastSeen": "2026-01-23T11:29:32.214Z"
+    }
+  },
+  "receipts": {},
+  "tickets": {
+    "1769167883220": {
+      "id": 1769167883220,
+      "userId": 1128350068,
+      "status": "closed",
+      "createdAt": "2026-01-23T11:31:23.221Z",
+      "updatedAt": "2026-01-23T11:31:39.646Z",
+      "unreadByAdmin": false,
+      "unreadByUser": true,
+      "messages": [
+        {
+          "from": "user",
+          "text": "пидоры",
+          "time": "2026-01-23T11:31:23.221Z"
+        },
+        {
+          "from": "admin",
+          "text": "пошел нахуй",
+          "time": "2026-01-23T11:31:36.092Z"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "receiptsTotal": 0
+  }
+}

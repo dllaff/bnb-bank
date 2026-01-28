@@ -1,0 +1,14 @@
+{
+  "name": "bnb-bank-local",
+  "version": "4.0.0",
+  "description": "BNB Bank Local Server with Assistants",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "sqlite3": "^5.1.6"
+  }
+}
